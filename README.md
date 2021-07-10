@@ -1,3 +1,3 @@
 # banking-project
-Basic-Banking-App
-A basic banking app where you can create customers and perform transactions between them.
+Banking
+A basic banking where you can create customers and perform transactions between them.
