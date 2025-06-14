@@ -1,6 +1,8 @@
 package com.example.demo;
 
 public class model {
-	private 
+	private Long id;
+	private String name ;
+	private String desc;
 
 }
